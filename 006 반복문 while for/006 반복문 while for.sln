@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "001 while", "001 while\001 while.vcxproj", "{CF8B032E-F130-4845-93B2-AF0A1DFEA456}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "002 while 구구단 출력", "002 while 구구단 출력\002 while 구구단 출력.vcxproj", "{F6420B31-9A77-4AC5-8894-CA18BBF3F701}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "003 while 7의 배수 구하기", "003 while 7의 배수 구하기\003 while 7의 배수 구하기.vcxproj", "{4067BF0D-D730-48E1-BB7D-705471A99B4B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "004 for", "004 for\004 for.vcxproj", "{D5347904-D9EF-467E-BDB9-0CA185320954}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "005 for 이자 구하기", "005 for 이자 구하기\005 for 이자 구하기.vcxproj", "{A9B24278-E88D-4C19-A056-290227A900EB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "006 tilemap 그리기", "006 tilemap 그리기\006 tilemap 그리기.vcxproj", "{B004C116-EBA7-4F1D-AEE1-5489D44FE7BF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "007 for 무한 문자 입력", "007 for 무한 문자 입력\007 for 무한 문자 입력.vcxproj", "{54E0E007-BC70-4362-BA8D-6850B57C4B48}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "008 do while", "008 do while\008 do while.vcxproj", "{C4096C29-1195-4805-896D-DA916E9D094E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "009 do while AsciiCode 출력", "009 do while AsciiCode 출력\009 do while AsciiCode 출력.vcxproj", "{2D9F6458-6DD1-4C16-BF95-19B3F92BA741}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "010 과제 tilemap 에서 별 이동하기", "010 과제 tilemap 에서 별 이동하기\010 과제 tilemap 에서 별 이동하기.vcxproj", "{D780EB2C-F575-4A4D-B39C-E0ACFF0EEEC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF8B032E-F130-4845-93B2-AF0A1DFEA456}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CF8B032E-F130-4845-93B2-AF0A1DFEA456}.Debug|Win32.Build.0 = Debug|Win32
+		{CF8B032E-F130-4845-93B2-AF0A1DFEA456}.Release|Win32.ActiveCfg = Release|Win32
+		{CF8B032E-F130-4845-93B2-AF0A1DFEA456}.Release|Win32.Build.0 = Release|Win32
+		{F6420B31-9A77-4AC5-8894-CA18BBF3F701}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F6420B31-9A77-4AC5-8894-CA18BBF3F701}.Debug|Win32.Build.0 = Debug|Win32
+		{F6420B31-9A77-4AC5-8894-CA18BBF3F701}.Release|Win32.ActiveCfg = Release|Win32
+		{F6420B31-9A77-4AC5-8894-CA18BBF3F701}.Release|Win32.Build.0 = Release|Win32
+		{4067BF0D-D730-48E1-BB7D-705471A99B4B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4067BF0D-D730-48E1-BB7D-705471A99B4B}.Debug|Win32.Build.0 = Debug|Win32
+		{4067BF0D-D730-48E1-BB7D-705471A99B4B}.Release|Win32.ActiveCfg = Release|Win32
+		{4067BF0D-D730-48E1-BB7D-705471A99B4B}.Release|Win32.Build.0 = Release|Win32
+		{D5347904-D9EF-467E-BDB9-0CA185320954}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D5347904-D9EF-467E-BDB9-0CA185320954}.Debug|Win32.Build.0 = Debug|Win32
+		{D5347904-D9EF-467E-BDB9-0CA185320954}.Release|Win32.ActiveCfg = Release|Win32
+		{D5347904-D9EF-467E-BDB9-0CA185320954}.Release|Win32.Build.0 = Release|Win32
+		{A9B24278-E88D-4C19-A056-290227A900EB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A9B24278-E88D-4C19-A056-290227A900EB}.Debug|Win32.Build.0 = Debug|Win32
+		{A9B24278-E88D-4C19-A056-290227A900EB}.Release|Win32.ActiveCfg = Release|Win32
+		{A9B24278-E88D-4C19-A056-290227A900EB}.Release|Win32.Build.0 = Release|Win32
+		{B004C116-EBA7-4F1D-AEE1-5489D44FE7BF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B004C116-EBA7-4F1D-AEE1-5489D44FE7BF}.Debug|Win32.Build.0 = Debug|Win32
+		{B004C116-EBA7-4F1D-AEE1-5489D44FE7BF}.Release|Win32.ActiveCfg = Release|Win32
+		{B004C116-EBA7-4F1D-AEE1-5489D44FE7BF}.Release|Win32.Build.0 = Release|Win32
+		{54E0E007-BC70-4362-BA8D-6850B57C4B48}.Debug|Win32.ActiveCfg = Debug|Win32
+		{54E0E007-BC70-4362-BA8D-6850B57C4B48}.Debug|Win32.Build.0 = Debug|Win32
+		{54E0E007-BC70-4362-BA8D-6850B57C4B48}.Release|Win32.ActiveCfg = Release|Win32
+		{54E0E007-BC70-4362-BA8D-6850B57C4B48}.Release|Win32.Build.0 = Release|Win32
+		{C4096C29-1195-4805-896D-DA916E9D094E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C4096C29-1195-4805-896D-DA916E9D094E}.Debug|Win32.Build.0 = Debug|Win32
+		{C4096C29-1195-4805-896D-DA916E9D094E}.Release|Win32.ActiveCfg = Release|Win32
+		{C4096C29-1195-4805-896D-DA916E9D094E}.Release|Win32.Build.0 = Release|Win32
+		{2D9F6458-6DD1-4C16-BF95-19B3F92BA741}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2D9F6458-6DD1-4C16-BF95-19B3F92BA741}.Debug|Win32.Build.0 = Debug|Win32
+		{2D9F6458-6DD1-4C16-BF95-19B3F92BA741}.Release|Win32.ActiveCfg = Release|Win32
+		{2D9F6458-6DD1-4C16-BF95-19B3F92BA741}.Release|Win32.Build.0 = Release|Win32
+		{D780EB2C-F575-4A4D-B39C-E0ACFF0EEEC4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D780EB2C-F575-4A4D-B39C-E0ACFF0EEEC4}.Debug|Win32.Build.0 = Debug|Win32
+		{D780EB2C-F575-4A4D-B39C-E0ACFF0EEEC4}.Release|Win32.ActiveCfg = Release|Win32
+		{D780EB2C-F575-4A4D-B39C-E0ACFF0EEEC4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "001 구조체와 클래스의 비교", "001 구조체와 클래스의 비교\001 구조체와 클래스의 비교.vcxproj", "{B005ECA1-9ED5-460E-AECA-DBBEB199F556}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "002 클래스의 생성자와 소멸자", "002 클래스의 생성자와 소멸자\002 클래스의 생성자와 소멸자.vcxproj", "{77C1F0C8-673B-45CC-A37B-1B11F32ED77A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "003 Abstraction _ interface", "003 Abstraction _ interface\003 Abstraction _ interface.vcxproj", "{56E62BBE-27A8-4826-A501-6F8456EB5FE9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "004 Inheritance _ single", "004 Inheritance _ single\004 Inheritance _ single.vcxproj", "{A6C26B77-8DD2-4DC3-B775-751E3C355576}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "005 Inheritance _ multiple", "005 Inheritance _ multiple\005 Inheritance _ multiple.vcxproj", "{3D532779-FD25-42E0-AAB3-3E9A1BAB6BE4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "006 Polymorphism _ FSM", "006 Polymorphism _ FSM\006 Polymorphism _ FSM.vcxproj", "{38C4E387-3502-4189-802C-9B5FF45456EF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "007 Constructors", "007 Constructors\007 Constructors.vcxproj", "{4D954FC0-AAF7-4102-8E46-C1969ECE5929}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B005ECA1-9ED5-460E-AECA-DBBEB199F556}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B005ECA1-9ED5-460E-AECA-DBBEB199F556}.Debug|Win32.Build.0 = Debug|Win32
+		{B005ECA1-9ED5-460E-AECA-DBBEB199F556}.Release|Win32.ActiveCfg = Release|Win32
+		{B005ECA1-9ED5-460E-AECA-DBBEB199F556}.Release|Win32.Build.0 = Release|Win32
+		{77C1F0C8-673B-45CC-A37B-1B11F32ED77A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{77C1F0C8-673B-45CC-A37B-1B11F32ED77A}.Debug|Win32.Build.0 = Debug|Win32
+		{77C1F0C8-673B-45CC-A37B-1B11F32ED77A}.Release|Win32.ActiveCfg = Release|Win32
+		{77C1F0C8-673B-45CC-A37B-1B11F32ED77A}.Release|Win32.Build.0 = Release|Win32
+		{56E62BBE-27A8-4826-A501-6F8456EB5FE9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{56E62BBE-27A8-4826-A501-6F8456EB5FE9}.Debug|Win32.Build.0 = Debug|Win32
+		{56E62BBE-27A8-4826-A501-6F8456EB5FE9}.Release|Win32.ActiveCfg = Release|Win32
+		{56E62BBE-27A8-4826-A501-6F8456EB5FE9}.Release|Win32.Build.0 = Release|Win32
+		{A6C26B77-8DD2-4DC3-B775-751E3C355576}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A6C26B77-8DD2-4DC3-B775-751E3C355576}.Debug|Win32.Build.0 = Debug|Win32
+		{A6C26B77-8DD2-4DC3-B775-751E3C355576}.Release|Win32.ActiveCfg = Release|Win32
+		{A6C26B77-8DD2-4DC3-B775-751E3C355576}.Release|Win32.Build.0 = Release|Win32
+		{3D532779-FD25-42E0-AAB3-3E9A1BAB6BE4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3D532779-FD25-42E0-AAB3-3E9A1BAB6BE4}.Debug|Win32.Build.0 = Debug|Win32
+		{3D532779-FD25-42E0-AAB3-3E9A1BAB6BE4}.Release|Win32.ActiveCfg = Release|Win32
+		{3D532779-FD25-42E0-AAB3-3E9A1BAB6BE4}.Release|Win32.Build.0 = Release|Win32
+		{38C4E387-3502-4189-802C-9B5FF45456EF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{38C4E387-3502-4189-802C-9B5FF45456EF}.Debug|Win32.Build.0 = Debug|Win32
+		{38C4E387-3502-4189-802C-9B5FF45456EF}.Release|Win32.ActiveCfg = Release|Win32
+		{38C4E387-3502-4189-802C-9B5FF45456EF}.Release|Win32.Build.0 = Release|Win32
+		{4D954FC0-AAF7-4102-8E46-C1969ECE5929}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4D954FC0-AAF7-4102-8E46-C1969ECE5929}.Debug|Win32.Build.0 = Debug|Win32
+		{4D954FC0-AAF7-4102-8E46-C1969ECE5929}.Release|Win32.ActiveCfg = Release|Win32
+		{4D954FC0-AAF7-4102-8E46-C1969ECE5929}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

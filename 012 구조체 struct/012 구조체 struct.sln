@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "001 구조체 선언 및 사용", "001 구조체 선언 및 사용\001 구조체 선언 및 사용.vcxproj", "{6C9A85E3-B7FB-404E-977B-867B68D10388}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "002 구조체 문자열", "002 구조체 문자열\002 구조체 문자열.vcxproj", "{B4768FAD-8A67-45DE-A769-D677152C6321}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "003 구조체 포인터", "003 구조체 포인터\003 구조체 포인터.vcxproj", "{8845996B-D5A2-45CB-9B0F-BE0CBB730F64}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "004 typedef 구조체 재정의", "004 typedef 구조체 재정의\004 typedef 구조체 재정의.vcxproj", "{1B9E245D-DFA7-4B87-A7F7-2FA0A48C26BE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "005 과제 두점사이 거리 구하기", "005 과제 두점사이 거리 구하기\005 과제 두점사이 거리 구하기.vcxproj", "{49976120-771A-4BFA-B05D-C400AA2CF678}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "006 enum 열거체", "006 enum 열거체\006 enum 열거체.vcxproj", "{A1B9B506-0E4B-494B-9702-6701E5C25932}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "007 중첩구조체", "007 중첩구조체\007 중첩구조체.vcxproj", "{A75773F5-89E2-44A5-A2D3-CE568AE3CF26}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "008 자기 참조 구조체", "008 자기 참조 구조체\008 자기 참조 구조체.vcxproj", "{E348369E-2F60-481B-879B-EC81817710AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C9A85E3-B7FB-404E-977B-867B68D10388}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6C9A85E3-B7FB-404E-977B-867B68D10388}.Debug|Win32.Build.0 = Debug|Win32
+		{6C9A85E3-B7FB-404E-977B-867B68D10388}.Release|Win32.ActiveCfg = Release|Win32
+		{6C9A85E3-B7FB-404E-977B-867B68D10388}.Release|Win32.Build.0 = Release|Win32
+		{B4768FAD-8A67-45DE-A769-D677152C6321}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B4768FAD-8A67-45DE-A769-D677152C6321}.Debug|Win32.Build.0 = Debug|Win32
+		{B4768FAD-8A67-45DE-A769-D677152C6321}.Release|Win32.ActiveCfg = Release|Win32
+		{B4768FAD-8A67-45DE-A769-D677152C6321}.Release|Win32.Build.0 = Release|Win32
+		{8845996B-D5A2-45CB-9B0F-BE0CBB730F64}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8845996B-D5A2-45CB-9B0F-BE0CBB730F64}.Debug|Win32.Build.0 = Debug|Win32
+		{8845996B-D5A2-45CB-9B0F-BE0CBB730F64}.Release|Win32.ActiveCfg = Release|Win32
+		{8845996B-D5A2-45CB-9B0F-BE0CBB730F64}.Release|Win32.Build.0 = Release|Win32
+		{1B9E245D-DFA7-4B87-A7F7-2FA0A48C26BE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1B9E245D-DFA7-4B87-A7F7-2FA0A48C26BE}.Debug|Win32.Build.0 = Debug|Win32
+		{1B9E245D-DFA7-4B87-A7F7-2FA0A48C26BE}.Release|Win32.ActiveCfg = Release|Win32
+		{1B9E245D-DFA7-4B87-A7F7-2FA0A48C26BE}.Release|Win32.Build.0 = Release|Win32
+		{49976120-771A-4BFA-B05D-C400AA2CF678}.Debug|Win32.ActiveCfg = Debug|Win32
+		{49976120-771A-4BFA-B05D-C400AA2CF678}.Debug|Win32.Build.0 = Debug|Win32
+		{49976120-771A-4BFA-B05D-C400AA2CF678}.Release|Win32.ActiveCfg = Release|Win32
+		{49976120-771A-4BFA-B05D-C400AA2CF678}.Release|Win32.Build.0 = Release|Win32
+		{A1B9B506-0E4B-494B-9702-6701E5C25932}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A1B9B506-0E4B-494B-9702-6701E5C25932}.Debug|Win32.Build.0 = Debug|Win32
+		{A1B9B506-0E4B-494B-9702-6701E5C25932}.Release|Win32.ActiveCfg = Release|Win32
+		{A1B9B506-0E4B-494B-9702-6701E5C25932}.Release|Win32.Build.0 = Release|Win32
+		{A75773F5-89E2-44A5-A2D3-CE568AE3CF26}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A75773F5-89E2-44A5-A2D3-CE568AE3CF26}.Debug|Win32.Build.0 = Debug|Win32
+		{A75773F5-89E2-44A5-A2D3-CE568AE3CF26}.Release|Win32.ActiveCfg = Release|Win32
+		{A75773F5-89E2-44A5-A2D3-CE568AE3CF26}.Release|Win32.Build.0 = Release|Win32
+		{E348369E-2F60-481B-879B-EC81817710AF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E348369E-2F60-481B-879B-EC81817710AF}.Debug|Win32.Build.0 = Debug|Win32
+		{E348369E-2F60-481B-879B-EC81817710AF}.Release|Win32.ActiveCfg = Release|Win32
+		{E348369E-2F60-481B-879B-EC81817710AF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

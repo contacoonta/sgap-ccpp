@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "001 파일쓰기", "001 파일쓰기\001 파일쓰기.vcxproj", "{EE8A0720-FB53-4962-8E61-5E83F6051CD7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "002 파일읽기", "002 파일읽기\002 파일읽기.vcxproj", "{D0BE2058-22EB-415A-8735-24D3285F2A93}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "003 배열 버퍼 읽고 쓰기", "003 배열 버퍼 읽고 쓰기\003 배열 버퍼 읽고 쓰기.vcxproj", "{0931D396-64B4-41E9-960F-F6E0FD0950E7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "004 user defined data 읽고 쓰기", "004 user defined data 읽고 쓰기\004 user defined data 읽고 쓰기.vcxproj", "{0F5E9091-2ACB-4000-BB3C-905F1F6B3581}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "005 과제 맵 데이터 물러와서 화면 출력", "005 과제 맵 데이터 물러와서 화면 출력\005 과제 맵 데이터 물러와서 화면 출력.vcxproj", "{FF22B3A8-A0BD-43F6-927D-E7D681FBADFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE8A0720-FB53-4962-8E61-5E83F6051CD7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EE8A0720-FB53-4962-8E61-5E83F6051CD7}.Debug|Win32.Build.0 = Debug|Win32
+		{EE8A0720-FB53-4962-8E61-5E83F6051CD7}.Release|Win32.ActiveCfg = Release|Win32
+		{EE8A0720-FB53-4962-8E61-5E83F6051CD7}.Release|Win32.Build.0 = Release|Win32
+		{D0BE2058-22EB-415A-8735-24D3285F2A93}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D0BE2058-22EB-415A-8735-24D3285F2A93}.Debug|Win32.Build.0 = Debug|Win32
+		{D0BE2058-22EB-415A-8735-24D3285F2A93}.Release|Win32.ActiveCfg = Release|Win32
+		{D0BE2058-22EB-415A-8735-24D3285F2A93}.Release|Win32.Build.0 = Release|Win32
+		{0931D396-64B4-41E9-960F-F6E0FD0950E7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0931D396-64B4-41E9-960F-F6E0FD0950E7}.Debug|Win32.Build.0 = Debug|Win32
+		{0931D396-64B4-41E9-960F-F6E0FD0950E7}.Release|Win32.ActiveCfg = Release|Win32
+		{0931D396-64B4-41E9-960F-F6E0FD0950E7}.Release|Win32.Build.0 = Release|Win32
+		{0F5E9091-2ACB-4000-BB3C-905F1F6B3581}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0F5E9091-2ACB-4000-BB3C-905F1F6B3581}.Debug|Win32.Build.0 = Debug|Win32
+		{0F5E9091-2ACB-4000-BB3C-905F1F6B3581}.Release|Win32.ActiveCfg = Release|Win32
+		{0F5E9091-2ACB-4000-BB3C-905F1F6B3581}.Release|Win32.Build.0 = Release|Win32
+		{FF22B3A8-A0BD-43F6-927D-E7D681FBADFD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FF22B3A8-A0BD-43F6-927D-E7D681FBADFD}.Debug|Win32.Build.0 = Debug|Win32
+		{FF22B3A8-A0BD-43F6-927D-E7D681FBADFD}.Release|Win32.ActiveCfg = Release|Win32
+		{FF22B3A8-A0BD-43F6-927D-E7D681FBADFD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "001 new delete", "001 new delete\001 new delete.vcxproj", "{91EE4306-B292-4E47-A750-6420D94DA142}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "002 new delete array", "002 new delete array\002 new delete array.vcxproj", "{4A288C2D-0832-4A7A-A3A4-90A8EECF8058}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "003 new delete struct", "003 new delete struct\003 new delete struct.vcxproj", "{087F9F9C-E498-41FD-93DE-BEAC67DD7863}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "004 stl vector template class", "004 stl vector template class\004 stl vector template class.vcxproj", "{CF5DCB33-5DC0-4583-ACFE-ED604259B3DE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "005 stl list template class", "005 stl list template class\005 stl list template class.vcxproj", "{3E4E231F-AC9A-41DC-8F4E-C3B491E732CB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "006 과제 좀비 친구들", "006 과제 좀비 친구들\006 과제 좀비 친구들.vcxproj", "{98F7383A-2BB2-4B84-9BD5-F00393BB34F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91EE4306-B292-4E47-A750-6420D94DA142}.Debug|Win32.ActiveCfg = Debug|Win32
+		{91EE4306-B292-4E47-A750-6420D94DA142}.Debug|Win32.Build.0 = Debug|Win32
+		{91EE4306-B292-4E47-A750-6420D94DA142}.Release|Win32.ActiveCfg = Release|Win32
+		{91EE4306-B292-4E47-A750-6420D94DA142}.Release|Win32.Build.0 = Release|Win32
+		{4A288C2D-0832-4A7A-A3A4-90A8EECF8058}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4A288C2D-0832-4A7A-A3A4-90A8EECF8058}.Debug|Win32.Build.0 = Debug|Win32
+		{4A288C2D-0832-4A7A-A3A4-90A8EECF8058}.Release|Win32.ActiveCfg = Release|Win32
+		{4A288C2D-0832-4A7A-A3A4-90A8EECF8058}.Release|Win32.Build.0 = Release|Win32
+		{087F9F9C-E498-41FD-93DE-BEAC67DD7863}.Debug|Win32.ActiveCfg = Debug|Win32
+		{087F9F9C-E498-41FD-93DE-BEAC67DD7863}.Debug|Win32.Build.0 = Debug|Win32
+		{087F9F9C-E498-41FD-93DE-BEAC67DD7863}.Release|Win32.ActiveCfg = Release|Win32
+		{087F9F9C-E498-41FD-93DE-BEAC67DD7863}.Release|Win32.Build.0 = Release|Win32
+		{CF5DCB33-5DC0-4583-ACFE-ED604259B3DE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CF5DCB33-5DC0-4583-ACFE-ED604259B3DE}.Debug|Win32.Build.0 = Debug|Win32
+		{CF5DCB33-5DC0-4583-ACFE-ED604259B3DE}.Release|Win32.ActiveCfg = Release|Win32
+		{CF5DCB33-5DC0-4583-ACFE-ED604259B3DE}.Release|Win32.Build.0 = Release|Win32
+		{3E4E231F-AC9A-41DC-8F4E-C3B491E732CB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3E4E231F-AC9A-41DC-8F4E-C3B491E732CB}.Debug|Win32.Build.0 = Debug|Win32
+		{3E4E231F-AC9A-41DC-8F4E-C3B491E732CB}.Release|Win32.ActiveCfg = Release|Win32
+		{3E4E231F-AC9A-41DC-8F4E-C3B491E732CB}.Release|Win32.Build.0 = Release|Win32
+		{98F7383A-2BB2-4B84-9BD5-F00393BB34F5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{98F7383A-2BB2-4B84-9BD5-F00393BB34F5}.Debug|Win32.Build.0 = Debug|Win32
+		{98F7383A-2BB2-4B84-9BD5-F00393BB34F5}.Release|Win32.ActiveCfg = Release|Win32
+		{98F7383A-2BB2-4B84-9BD5-F00393BB34F5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
